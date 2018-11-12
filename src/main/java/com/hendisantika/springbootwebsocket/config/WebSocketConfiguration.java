@@ -1,5 +1,6 @@
 package com.hendisantika.springbootwebsocket.config;
 
+import com.hendisantika.springbootwebsocket.controller.EchoWebSocket;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
